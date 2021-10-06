@@ -1,0 +1,21 @@
+.logo {
+  padding-top: 10px;
+  padding-left: 10px;
+  width: 128px;
+}
+.topmenu{
+  padding-right: 10px;
+}
+
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.bordered {
+
+}
+
+.bodytext {
+  font-size: 16px;
+}
